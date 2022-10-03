@@ -1,7 +1,7 @@
 {
   "name": "grafico-proyeccion-acciones-lp",
   "version": "1.0.0",
-  "description": "Gráficos de Proyección a Largo Plazo Lineal",
+  "description": "Gráfico de Proyección de Acciones a Largo Plazo Lineal",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
